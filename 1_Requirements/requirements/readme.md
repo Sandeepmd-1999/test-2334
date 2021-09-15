@@ -28,7 +28,11 @@ Heated seats are often thought of as a luxury item and are most often included i
    It heats the car seat
 
 ## How:
-   
+   1. Button Sensor will check the passenger is seated or not.
+   2. Temperature sensor work as per mentioned.
+   3. Display CDD-CRO will give the temperature value by showing PWM.
+   4. Led Actuator shows the driver is seated.
+   5. Heater will check the heater button is ON.
    
    
 
