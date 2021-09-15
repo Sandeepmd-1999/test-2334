@@ -13,3 +13,23 @@ Heated seats are often thought of as a luxury item and are most often included i
 ## Swot Analysis
 
 ![images](https://user-images.githubusercontent.com/83118255/132312990-17d1edbf-3abd-42b6-a421-9734e56193b2.jpg)
+
+# 4W & 1H
+## Where:
+  Seat heater is used in automobile cars.
+ 
+## Who:
+  passengers or drivers in car
+  
+## When:
+   Depending on the temperature
+
+## What:
+   It heats the car seat
+
+## How:
+   
+   
+   
+
+
