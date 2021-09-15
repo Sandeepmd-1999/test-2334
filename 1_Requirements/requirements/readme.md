@@ -33,6 +33,24 @@ Heated seats are often thought of as a luxury item and are most often included i
    3. Display CDD-CRO will give the temperature value by showing PWM.
    4. Led Actuator shows the driver is seated.
    5. Heater will check the heater button is ON.
+ 
+ # Detail Requirements
+ ## High Level Requirment
+ 
+ | Id| Description| Status|
+ |:---:|:---:|:---:|
+ |HLR_1| Button sensor will check the passenger is seated or not| Implemented|
+ |HLR_2| Temperature sensor as per mentioned| Implemented|
+ |HLR_3| Display CDD-CRO will give the temperature value by showing PWM| Implemented|
+ |HLR_4| Led Actuator shows the driver is seated.|Implemented|
+ 
+ ## Low level Requirements
+ 
+ | ID| HLR| ADC value| Temp| Status|
+ |:---:|:---:|:---:|:---:|:---:|
+ |LLR_1| HLR_2| 
+ 
+ 
    
    
 
