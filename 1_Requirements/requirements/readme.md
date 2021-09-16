@@ -48,7 +48,10 @@ Heated seats are often thought of as a luxury item and are most often included i
  
  | ID| HLR| ADC value| Temp| Status|
  |:---:|:---:|:---:|:---:|:---:|
- |LLR_1| HLR_2| 
+ |LLR_1| HLR_2| 0-200| 20 °C| Implemented|
+ |LLR_2| HLR_2| 210-500| 25°C| Implemented|
+ |LLR_3|HLR_2| 510-700| 29°C| Implemented|
+ |LLR_4| HLR_2|710-1024| 33°C| Implemented|
  
  
    
